@@ -5,16 +5,17 @@ Whiskey
 -------
  - Manhattan (32)
  - Old Fashioned (40) 
- - Sour (139)
  - Mint Julep (37)
  - Collins (122)
 
 Gin
 ---
  - Pimm's Cup
- - Sour (139)
  - Collins (122)
  - Southside (140)
+ - Martini (104)
+ - White Lady (100)
+ - Gimlet (78)
 
 Rum
 ---
@@ -24,7 +25,6 @@ Rum
 Vodka
 -----
  - Cosmopolitan (72)
- - Gimlet
- - Martini
- - Sour (139)
+ - Gimlet (78)
+ - Martini (104)
  - Collins (122)
